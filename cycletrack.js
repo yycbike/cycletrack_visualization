@@ -20,8 +20,8 @@ function setUpTangle () {
                         this.cost_per_trip = this.cost_of_cycletrack / this.trips;
 
 			// Safety numbers
-			this.y2014_benchmark_collisions_per_year = 178;
-			this.y2016_collisions_per_year = 140;
+			this.y2014_benchmark_collisions_per_year = 480;
+			this.y2016_collisions_per_year = 408;
 			this.cost_per_collision = 1e5;
 
 			// Comparison numbers
